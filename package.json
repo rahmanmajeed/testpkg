@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rahmanmajeed/testpkg/issues"
   },
-  "homepage": "https://github.com/rahmanmajeed/testpkg#readme"
+  "homepage": "https://github.com/rahmanmajeed/testpkg#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
